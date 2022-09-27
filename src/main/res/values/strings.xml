@@ -2,4 +2,8 @@
     <string name="app_name">AllinOne</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="welcome" />
+    <string name="new_to_potatonation">New to Potatonation?</string>
+    <string name="register_now">Register Now</string>
+    <string name="email">Email</string>
 </resources>
