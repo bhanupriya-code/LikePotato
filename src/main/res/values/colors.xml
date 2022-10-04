@@ -10,4 +10,28 @@
     <color name="cyan">#31FFF9</color>
     <color name="darkcyan">#005267</color>
     <color name="brown">#2B2629</color>
-</resources>
+    <color name="lightbrown">#575353</color>
+    <color name="yellow">#E8E849</color>
+    <color name="potatoyellow">#E8953D</color>
+
+
+
+    <color name="color1">#DF90ED</color>
+    <color name="color2">#C19A71</color>
+    <color name="color3">#CD8CA6</color>
+    <color name="color4">#6B76DC</color>
+    <color name="color5">#38AAD6</color>
+    <color name="color6">#9ADC8F</color>
+    <color name="color7">#D38787</color>
+    <color name="color8">#FF4479</color>
+    <color name="color9">#FF3CBE</color>
+    <color name="color10">#8936FF</color>
+    <color name="color11">#0040FF</color>
+    <color name="color12">#07E3F6</color>
+    <color name="color13">#00FF5D</color>
+    <color name="color14">#FFD748</color>
+    <color name="color15">#FF2D2D</color>
+    <color name="color16">#BC03FF</color>
+    <color name="color17">#0065FF</color>
+
+    </resources>
