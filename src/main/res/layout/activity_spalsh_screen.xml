@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:layout_gravity="center"
+    android:gravity="center"
+    android:background="@color/potatoyellow"
+    tools:context=".SpalshScreen">
+
+    <ImageView
+        android:id="@+id/imagespalsh"
+        android:layout_width="358dp"
+        android:layout_height="250dp"
+        android:src="@drawable/potatoforanimationfinal">
+
+    </ImageView>
+
+    <TextView
+        android:id="@+id/splashtext"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:fontFamily="@font/aladin"
+        android:text="Potato Nation"
+        android:textAlignment="center"
+        android:textColor="@color/brown"
+        android:textSize="50sp"
+        android:textStyle="italic" />
+        <TextView
+            android:id="@+id/splashtext2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="TRUTH POTATO: Your Ideas Are Useless If Not Implemented"
+            android:textAlignment="center"
+            android:textColor="@color/brown"
+            android:textSize="18sp"
+            android:fontFamily="@font/aladin">
+
+        </TextView>
+</LinearLayout>

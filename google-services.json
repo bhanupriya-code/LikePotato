@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "409662201276",
+    "project_id": "welcome-to-potatonation",
+    "storage_bucket": "welcome-to-potatonation.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:409662201276:android:f756f51d3c221bc3e31fb9",
+        "android_client_info": {
+          "package_name": "com.example.gullutesting3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "409662201276-v03vcfj4cs4rt8gci2odeph1b7bjnano.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBENc-1UIwakGUyg_JYPNCG49lXTUVoMjw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "409662201276-v03vcfj4cs4rt8gci2odeph1b7bjnano.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
