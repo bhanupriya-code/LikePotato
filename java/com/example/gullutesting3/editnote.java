@@ -43,6 +43,7 @@ public class editnote extends AppCompatActivity {
         meditcontentofnote=findViewById(R.id.editcontentofnote);
         msaveeditnote=findViewById(R.id.saveeditnote);
 
+        mgobacktoallnotes = findViewById(R.id.editgobacktoallnote);
         data=getIntent();
 
         firebaseFirestore=FirebaseFirestore.getInstance();

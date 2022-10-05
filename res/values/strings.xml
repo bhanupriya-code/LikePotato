@@ -6,4 +6,7 @@
     <string name="new_to_potatonation">New to Potatonation?</string>
     <string name="register_now">Register Now</string>
     <string name="email">Email</string>
+    <string name="message">Message</string>
+    <string name="reminder">Reminder</string>
+    <string name="note">Note</string>
 </resources>

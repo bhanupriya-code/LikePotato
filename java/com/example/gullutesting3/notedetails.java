@@ -35,6 +35,8 @@ public class notedetails extends AppCompatActivity {
         setSupportActionBar(toolbar);
         Intent data=getIntent();
 
+        mgobacktoallnotes = findViewById(R.id.detailgobacktoallnote);
+
         mgobacktoallnotes.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
