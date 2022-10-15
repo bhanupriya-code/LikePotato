@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BEST WORLD CUP</string>
+    <string name="all_matches">All matches</string>
+    <string name="my_matches">My matches</string>
+    <string name="_100">100</string>
+    <string name="vibro">Vibro</string>
+    <string name="sound">Sound</string>
+    <string name="off">OFF</string>
+    <string name="on">ON</string>
+    <string name="your_balance">Your balance:</string>
+    <string name="enter_your_name">Enter your name</string>
+</resources>
