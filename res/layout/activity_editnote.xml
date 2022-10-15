@@ -48,9 +48,9 @@
         android:layout_marginEnd="16dp"
         android:layout_marginBottom="36dp"
         android:background="#98774E"
+        android:contentDescription="TODO"
         android:src="@drawable/ic_baseline_cloud_upload_24"
-        app:maxImageSize="40dp"
-        android:contentDescription="TODO" />
+        app:maxImageSize="40dp" />
 
     <com.google.android.material.floatingactionbutton.FloatingActionButton
 
@@ -64,7 +64,7 @@
         android:layout_marginBottom="119dp"
         android:background="#000000"
         android:src="@drawable/backbutton"
-        app:maxImageSize="56dp"
+        app:maxImageSize="40dp"
         tools:ignore="SpeakableTextPresentCheck">
 
     </com.google.android.material.floatingactionbutton.FloatingActionButton>

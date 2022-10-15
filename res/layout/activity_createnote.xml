@@ -46,21 +46,15 @@
         android:id="@+id/savenote"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_below="@+id/progressbarofcreatenote"
         android:layout_alignParentEnd="true"
-        android:layout_alignParentRight="true"
         android:layout_alignParentBottom="true"
         android:layout_gravity="bottom|end"
-        android:layout_marginTop="255dp"
-        android:layout_marginEnd="30dp"
-        android:layout_marginRight="30dp"
-
-        android:layout_marginBottom="30dp"
-        android:background="#A1F4FB"
+        android:layout_marginEnd="16dp"
+        android:layout_marginBottom="36dp"
+        android:background="#98774E"
         android:contentDescription="TODO"
         android:src="@drawable/ic_baseline_cloud_upload_24"
-        app:maxImageSize="56dp"
-        tools:ignore="SpeakableTextPresentCheck">
+        app:maxImageSize="40dp">
 
     </com.google.android.material.floatingactionbutton.FloatingActionButton>
 
@@ -72,11 +66,11 @@
         android:layout_alignParentRight="true"
         android:layout_alignParentBottom="true"
         android:layout_gravity="bottom|end"
-        android:layout_marginRight="30dp"
-        android:layout_marginBottom="128dp"
+        android:layout_marginRight="15dp"
+        android:layout_marginBottom="119dp"
         android:background="#000000"
         android:src="@drawable/backbutton"
-        app:maxImageSize="56dp"
+        app:maxImageSize="40dp"
         tools:ignore="SpeakableTextPresentCheck">
 
     </com.google.android.material.floatingactionbutton.FloatingActionButton>

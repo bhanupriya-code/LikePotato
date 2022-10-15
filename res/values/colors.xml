@@ -34,4 +34,10 @@
     <color name="color16">#BC03FF</color>
     <color name="color17">#0065FF</color>
 
+
+<!--    message fragment colors-->
+    <color name="input_background">#ECECEC</color>
+    <color name="icon_background">#20FFFFFF</color>
+    <color name="error">#B00020</color>
+    <color name="recieved_message_color">#E8953D</color>
     </resources>
